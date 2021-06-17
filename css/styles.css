@@ -1,0 +1,17 @@
+
+body{
+  background-color: #C0FEFC;
+}
+hr{
+  border-style: dotted none none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+}
+/* Heading Tags */
+h1{
+  color: #4CA1A3;
+}
+h2{
+  color: #03256C;
+}
