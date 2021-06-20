@@ -12,6 +12,11 @@ hr{
 h1{
   color: #4CA1A3;
 }
+h1:hover{
+  color: blue;
+}
 h2{
   color: #03256C;
 }
+
+/***************MY PHOTO****************/
